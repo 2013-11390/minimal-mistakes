@@ -20,8 +20,8 @@ gallery:
     alt: "page2"
 ---
 
-[Wikispeedia](https://www.cs.mcgill.ca/~rwest/wikispeedia/) is the human-computation game. In wikispeedia, users are asked to navigate from a given source to a given target article, by only clicking Wikipedia links. We will calculate shortest path and average path between two words in game, find out local search method and compute semantic distance between words by getting data from the game.
+[Wikispeedia](https://www.cs.mcgill.ca/~rwest/wikispeedia/) is the human-computation game. In wikispeedia, users are asked to navigate from a given source to a given target article, by only clicking Wikipedia links. We will calculate shortest path and average path between two words in game, find out local search method and compute semantic distance between words by getting data from the game. 
 
 {% include gallery caption="This is a sample for reports." %}
 
-You can get more information about this projcet by this [link](/assets/portfolio/Analyzing Wikipeedia Navigation path.pdf)
+You can get more information about this project by this [link](/assets/portfolio/Analyzing Wikipeedia Navigation path.pdf)
