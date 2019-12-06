@@ -64,7 +64,8 @@
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ img_path }}" alt="{{ image_description }}" class="page__hero-image">
+  <div class="page__hero-wrapper"> <img src="{{ img_path }}" alt="{{ image_description }}" class="page__hero-image"> </div>
+    <!-- <img src="{{ img_path }}" alt="{{ image_description }}" class="page__hero-image"> -->
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>

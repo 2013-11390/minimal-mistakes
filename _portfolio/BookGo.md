@@ -2,8 +2,8 @@
 title: "BookGo"
 excerpt: "Selling used major book online"
 header:
-  image: /assets/images/bookGo.jpg
-  teaser: assets/images/bookGo.jpg
+  image: /assets/images/bookGoTeaser.png
+  teaser: assets/images/bookGoTeaser.png
 sidebar:
   - title: "Role"
     text: "Front-End & Back-End Developer"

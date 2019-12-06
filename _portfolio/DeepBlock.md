@@ -10,7 +10,7 @@ sidebar:
   - title: "Task"
     text: "Support Deep learning code for deep block site. Provide Deep block server for running deep learning code, providing API, uploading/downloading dataset."
   - title: "Stack"
-    text: "Tensorflow, Keras, Docker, nodejs, python, AWS"
+    text: "Tensorflow, Keras, Docker, nodejs, postgresql, redis, python, AWS"
 gallery:
   - url: /assets/images/deepblock/st_result1.jpg
     image_path: assets/images/deepblock/st_result1.jpg
