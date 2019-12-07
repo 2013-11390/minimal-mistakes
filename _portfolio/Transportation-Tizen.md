@@ -19,7 +19,7 @@ gallery:
 
 Public Transportation application for Samsung Gear, Tizen. Getting public API from Seoul and tell users where the bus/subway is, how much time left, etc. 
 This is term project for Project1 lecture in Seoul Nat'l University with Samsung SDS.<br/>
-This project won first price in 2016 Samsung Tizen App Contest and uploaded in Tizen App Store.
+This project won first price in 2016 Samsung Tizen App Contest for university studet and uploaded in Tizen App Store.
 
 {% include gallery caption="This is a sample images for appication" %}
 

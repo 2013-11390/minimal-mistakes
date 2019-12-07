@@ -33,4 +33,8 @@ You can make dataset and train model in one page.
 
 {% include figure image_path="/assets/images/deepblock/imageSegmentation.png" caption="This is an annotation page for image segmentation application." %}
 
+Below image shows the loss graph while training image segmentation model.
+
+{% include figure image_path="/assets/images/deepblock/trainingImage.png" caption="This is an training page for image segmentation application." %}
+
 You can use this application in [deepblock.site](https://deepblock.site)
