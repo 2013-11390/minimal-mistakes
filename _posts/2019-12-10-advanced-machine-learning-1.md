@@ -1,8 +1,10 @@
 ---
-title: "Advanced Machine Learning - Week1"
+title: "Advanced Machine Learning - Introduction to Deep Learning- Week1"
 categories:
   - Machine Learning
 tags:
+  - Advanced Machine Learning
+  - Introduction to Deep Learning
   - Machine Learning
   - Deep Learning
   - Coursera
