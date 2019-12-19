@@ -91,7 +91,7 @@ This post is a summary for Advanced Machine Learning - Introduction to Deep Lear
   - Sentence level: Doc2vec
 
 - Before GAN
-  - ![usingPretrained.png](/assets/images/coursera/AML/usingPretrained.png){: width="100%"}
+  - ![usingPreTrained.png](/assets/images/coursera/AML/usingPreTrained.png){: width="100%"}
   - It's hard to use MSE for image generation. (Because MSE calculate loss as pixelwise function)
   - So we use pre-trained nets for imageNet and get mean squared error of deep layer of 2 images.
 
