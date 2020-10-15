@@ -15,6 +15,7 @@ Graduated from Seoul Nat'l University, Computer Science & Engineering. <br/>
   - Develop tools for data processing with C#
 - Served in the army as CERT(Computer Emergency Response Team) (2018.01 ~ 2018.08)
   - Used NAC, WF, SIEM, etc.
-- Worked in Omnis Labs, as Deep Learning and BackEnd Engineer (2018.03 ~ )
+- Worked in Omnis Labs, as Deep Learning and BackEnd Engineer (2019.03 ~ 2020.02)
   - Develop with Keras, Tensorflow, Docker, nodejs, Redis, AWS.
-
+- Work in Violet Corp, as BackEnd Engineer (2020.03 ~ )
+  - Develop with Node, Koa, Express, GraphQL, Postgres, Redis, Docker, AWS, Azure.
