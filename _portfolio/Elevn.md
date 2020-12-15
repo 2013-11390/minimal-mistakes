@@ -16,4 +16,4 @@ sidebar:
 <img src="/assets/images/elevn1.png">  <br/>
 In Elevn, everything is in video. Post your own 11 seconds video and communicate with others by vidoe & GIF based comments. You can enjoy light, fun videos from 11 seconds video in elevn.
 
-You can get more information about this application in [here](https:///elevnapp.com)
+You can get more information about this application in [here](https:///elevn.app)
