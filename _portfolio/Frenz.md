@@ -25,4 +25,6 @@ gallery:
 
 The world where every character begins. frenz.
 
+{% include gallery caption="This is a sample images for appication" %}
+
 You can get more information about this app in [here](http://www.frenz.world/)

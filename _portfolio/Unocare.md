@@ -20,6 +20,8 @@ gallery:
     alt: "unocare image2"
 ---
 
+{% include gallery caption="This is a sample images for appication" %}
+
 Unocare is CRM for medical companies. It helps company to manage customers, appointment easily.
 
 You can get more information about this web app in [here](https://unocare.co.kr)
