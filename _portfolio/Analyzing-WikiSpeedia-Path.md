@@ -1,5 +1,6 @@
 ---
 title: "Analyzing Wikispeedia Path"
+order: 11
 excerpt: "Analyzing wikispeedia game and get the correlation between words."
 header:
   image: /assets/images/wikispeedia.png

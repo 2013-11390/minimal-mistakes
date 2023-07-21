@@ -1,5 +1,6 @@
 ---
 title: "MaGg - Make your Own Video Magazine"
+order: 5
 excerpt: "Making beautiful and improved products.  Automatic video merging & editing technology lets you create your own video magazine."
 header:
   image:  /assets/images/magg.png

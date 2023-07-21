@@ -1,5 +1,6 @@
 ---
 title: "Car Segmentation"
+order: 9
 excerpt: "Divide Car component by using Mask RCNN."
 header:
   image: /assets/images/carMaskRCNN.PNG

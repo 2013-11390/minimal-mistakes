@@ -1,5 +1,6 @@
 ---
 title: "Frenz"
+order: 2
 header:
   image:  /assets/images/frenz1.png
   teaser: assets/images/frenz1.png
@@ -13,10 +14,13 @@ sidebar:
 gallery:
   - url: /assets/images/frenz1.png
     image_path: assets/images/frenz1.png
+    alt: "frenz image1"
   - url: /assets/images/frenz2.png
     image_path: assets/images/frenz2.png
+    alt: "frenz image2"
   - url: /assets/images/frenz3.png
     image_path: assets/images/frenz3.png
+    alt: "frenz image3"
 ---
 
 The world where every character begins. frenz.

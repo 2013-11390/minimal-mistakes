@@ -1,5 +1,6 @@
 ---
 title: "Deep Block"
+order: 8
 excerpt: "Online Deep Learning Tool For Everyone."
 header:
   image: /assets/images/deepblock/trainingImage.png

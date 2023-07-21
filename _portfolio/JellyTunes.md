@@ -1,5 +1,6 @@
 ---
 title: "JellyTunes - Connect with playlist"
+order: 6
 excerpt: "Enjoy Youtube Playlist with friends by using Jellytunes."
 header:
   image:  /assets/images/jellytunes1.png

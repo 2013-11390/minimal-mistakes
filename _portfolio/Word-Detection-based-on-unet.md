@@ -1,5 +1,6 @@
 ---
 title: "Word Detection Based on unet model"
+order: 10
 excerpt: "Word Detection model based on unet model and accumulation of video frames."
 header:
   image:  /assets/images/worddetection_gal1.png
